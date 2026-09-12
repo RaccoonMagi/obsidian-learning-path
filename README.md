@@ -1,5 +1,11 @@
 # Obsidian Learning Path System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/RaccoonMagi/obsidian-learning-path?style=social)](https://github.com/RaccoonMagi/obsidian-learning-path/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/RaccoonMagi/obsidian-learning-path?style=social)](https://github.com/RaccoonMagi/obsidian-learning-path/network/members)
+[![Obsidian](https://img.shields.io/badge/Obsidian-Compatible-7C3AED?logo=obsidian&logoColor=white)](https://obsidian.md)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Integrated-D97706?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
 > A structured, Claude-integrated knowledge system for accelerating deep learning in any technical domain.
 > Clone it. Configure it. Learn faster and retain more.
 
