@@ -1,8 +1,6 @@
 # Obsidian Learning Path System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/RaccoonMagi/obsidian-learning-path?style=social)](https://github.com/RaccoonMagi/obsidian-learning-path/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/RaccoonMagi/obsidian-learning-path?style=social)](https://github.com/RaccoonMagi/obsidian-learning-path/network/members)
 [![Obsidian](https://img.shields.io/badge/Obsidian-Compatible-7C3AED?logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Integrated-D97706?logo=anthropic&logoColor=white)](https://claude.ai/code)
 
@@ -256,4 +254,4 @@ MIT. Clone it, modify it, use it. Attribution appreciated but not required.
 
 ---
 
-*Built by [Andres Jaramillo](https://github.com/AndresJaramillo). Methodology synthesized from the work of Richard Feynman, Walter Pauk (Cornell method), Piotr Wozniak (spaced repetition), and Barbara Oakley (learning how to learn).*
+*Methodology synthesized from the work of Richard Feynman, Walter Pauk (Cornell method), Piotr Wozniak (spaced repetition), and Barbara Oakley (learning how to learn).*
